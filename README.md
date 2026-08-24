@@ -49,15 +49,16 @@
 
 ### 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slashdog29&repo=Cyber-Center&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Cyber-Center Pin" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slashdog29&repo=Katarenai-Shell&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Katarenai-Shell Pin" />
-</p>
+<div align="center">
 
-* **🌐 Cyber-Center:** Sistema web de gestión para laboratorios informáticos universitarios con PHP, SQL y generación automática de reportes en PDF.
-* **🐍 PlatformForge & Sidewinder:** Suites en Python/PyQt6 enfocadas en la administración de entornos locales, contenedores Waydroid y automatización de APKs en Linux.
-* **⚡ Katarenai-Shell:** Dotfiles modulares y scripts optimizados para el compositor Wayland (Hyprland).
-* **🔌 12V UPS Prototype:** Desarrollo práctico de electrónica con relés SPDT para respaldo de energía en equipos de red.
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :---: | :---: |
+| **🌐 Cyber-Center** | Sistema web de gestión para laboratorios informáticos universitarios con reportes en PDF. | `PHP` `SQL` | [Ver Repo](https://github.com/Slashdog29/Cyber-Center) |
+| **🐍 PlatformForge & Sidewinder** | Suites para la administración de entornos locales y contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/PlatformForge) |
+| **⚡ Katarenai-Shell** | Dotfiles modulares y scripts optimizados para el compositor Wayland. | `Hyprland` `Bash` | [Ver Repo](https://github.com/Slashdog29/Katarenai-Shell) |
+| **🔌 Prototipo UPS 12V** | Desarrollo práctico de electrónica con relés SPDT para respaldo de energía. | `Hardware` `Relays` | *Local / Privado* |
+
+</div>
 
 ---
 
@@ -65,7 +66,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slashdog29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slashdog29&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7" alt="Top Languages" />
 </div>
 
