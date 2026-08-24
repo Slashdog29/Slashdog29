@@ -73,9 +73,7 @@
 
 ### 📈 Gráfico de Actividad
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slashdog29&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Slashdog29&theme=oceanic-next" alt="GitHub Streak" /></a>
 
 ---
 
