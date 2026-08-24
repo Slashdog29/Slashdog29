@@ -72,9 +72,9 @@
 ---
 
 ### 📈 Gráfico de Actividad
-
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Slashdog29&theme=oceanic-next" alt="GitHub Streak" /></a>
-
+</div>
 ---
 
 ### 🌐 Conéctate Conmigo
