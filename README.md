@@ -65,7 +65,7 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slashdog29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Slashdog29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slashdog29&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7" alt="Top Languages" />
 </div>
