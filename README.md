@@ -55,7 +55,7 @@
 | :--- | :--- | :---: | :---: |
 | **🌐 Cyber-Center** | Sistema web de gestión para laboratorios informáticos universitarios con reportes en PDF. | `PHP` `SQL` | [Ver Repo](https://github.com/Slashdog29/Taller-ProgramacionIII) |
 | **⚔️ SAO-Server (ForgeStack)**| Suites para la administración de entornos locales | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/SAO-Server) |
-| **🐍 PlatformForge & Sidewinder** | Levanta contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/Sidewinder) |
+| **🐍 Sidewinder** | Levanta contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/Sidewinder) |
 | **💜 Katarenai-Shell** | Dotfiles modulares y scripts optimizados para el compositor Wayland. | `Hyprland` `Bash` | [Ver Repo](https://github.com/Don-Gato700/Katarenai-Shell) |
 | **⚡ Gemini Lite** | es una aplicación cliente diseñada para interactuar con la API de Google Gemini en dispositivos con recursos limitados. | `Android` `Kotlin` | [Ver Repo](https://github.com/Slashdog29/geminilitego) |
 
