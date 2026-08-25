@@ -53,10 +53,11 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :---: | :---: |
-| **🌐 Cyber-Center** | Sistema web de gestión para laboratorios informáticos universitarios con reportes en PDF. | `PHP` `SQL` | [Ver Repo](https://github.com/Slashdog29/Cyber-Center) |
-| **🐍 PlatformForge & Sidewinder** | Suites para la administración de entornos locales y contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/PlatformForge) |
-| **⚡ Katarenai-Shell** | Dotfiles modulares y scripts optimizados para el compositor Wayland. | `Hyprland` `Bash` | [Ver Repo](https://github.com/Slashdog29/Katarenai-Shell) |
-| **🔌 Prototipo UPS 12V** | Desarrollo práctico de electrónica con relés SPDT para respaldo de energía. | `Hardware` `Relays` | *Local / Privado* |
+| **🌐 Cyber-Center** | Sistema web de gestión para laboratorios informáticos universitarios con reportes en PDF. | `PHP` `SQL` | [Ver Repo](https://github.com/Slashdog29/Taller-ProgramacionIII) |
+| **⚔️ SAO-Server (ForgeStack)**| Suites para la administración de entornos locales | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/SAO-Server) |
+| **🐍 PlatformForge & Sidewinder** | Levanta contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/Sidewinder) |
+| **⚡ Katarenai-Shell** | Dotfiles modulares y scripts optimizados para el compositor Wayland. | `Hyprland` `Bash` | [Ver Repo]([https://github.com/Slashdog29/Katarenai-Shell](https://github.com/Don-Gato700/Katarenai-Shell)) |
+| **⚡ Gemini Lite** | es una aplicación cliente diseñada para interactuar con la API de Google Gemini en dispositivos con recursos limitados. | `Android` `Kotlin` | [Ver Repo](https://github.com/Slashdog29/geminilitego) |
 
 </div>
 
@@ -67,7 +68,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slashdog29&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slashdog29&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" />
 </div>
 
 ---
