@@ -62,24 +62,15 @@
 
 ---
 
-### 🏆 Trofeos & Actividad de Código
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Slashdog29&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
-</p>
+### 📈 Actividad y Estadísticas
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slashdog29&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slashdog29&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" />
 </div>
 
 ---
-
-### 📈 Gráfico de Actividad
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Slashdog29&theme=oceanic-next" alt="GitHub Streak" /></a>
-</div>
----
-
 ### 🌐 Conéctate Conmigo
 
 <div align="center">
