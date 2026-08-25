@@ -47,18 +47,21 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📂 Mis Proyectos de Código Abierto
 
-<div align="center">
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-| :--- | :--- | :---: | :---: |
-| **🌐 Cyber-Center** | Sistema web de gestión para laboratorios informáticos universitarios con reportes en PDF. | `PHP` `SQL` | [Ver Repo](https://github.com/Slashdog29/Cyber-Center) |
-| **🐍 PlatformForge & Sidewinder** | Suites para la administración de entornos locales y contenedores Waydroid. | `Python` `PyQt6` | [Ver Repo](https://github.com/Slashdog29/PlatformForge) |
-| **⚡ Katarenai-Shell** | Dotfiles modulares y scripts optimizados para el compositor Wayland. | `Hyprland` `Bash` | [Ver Repo](https://github.com/Slashdog29/Katarenai-Shell) |
-| **🔌 Prototipo UPS 12V** | Desarrollo práctico de electrónica con relés SPDT para respaldo de energía. | `Hardware` `Relays` | *Local / Privado* |
-
-</div>
+<p align="center">
+  <a href="https://github.com/Slashdog29/Cyber-Center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slashdog29&repo=Cyber-Center&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" />
+  </a>
+  <a href="https://github.com/Slashdog29/Katarenai-Shell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slashdog29&repo=Katarenai-Shell&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Slashdog29/PlatformForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slashdog29&repo=PlatformForge&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" />
+  </a>
+</p>
 
 ---
 
@@ -71,6 +74,7 @@
 </div>
 
 ---
+
 ### 🌐 Conéctate Conmigo
 
 <div align="center">
