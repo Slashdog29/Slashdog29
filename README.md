@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="50%">
       <b>💻 Quién soy</b><br>
-      Estudiante de Ingeniería en Informática en la UNERG. Apasionado por la optimización extrema de sistemas operativos, la personalización de entornos gráficos (Tiling Window Managers) y el desarrollo de software eficiente.
+      Estudiante de Ingeniería en Informática. Apasionado por la optimización extrema de sistemas operativos, la personalización de entornos gráficos (Tiling Window Managers) y el desarrollo de software eficiente.
     </td>
     <td align="center" width="50%">
       <b>⚡ Filosofía</b><br>
